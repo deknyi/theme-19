@@ -1,0 +1,56 @@
+body{
+    background-image: url(images/background1.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 18px;
+}
+img{
+    width: 220px;
+    height: 270px;
+}
+fieldset {
+    height: 350px;
+    background-color: gray;
+    display: block;
+
+}
+select{
+    background-color: green;
+    width: 160px;
+    height: 30px;
+    border: 2px solid white;
+    font-family: cursive;
+    font-size: 16px;
+}
+.dodat{
+    height: auto;
+    background-color: goldenrod;
+    border: 2px solid blue;
+    border-radius: 10px ;
+    color: white;
+    font-size: 18px;
+}
+button:hover{
+    background-color: purple;
+    color: yellow;
+}
+.sos{
+    width: 765px;
+    float: left;
+    margin-left: 120px;
+}
+.ded{
+    width:580px;
+    float: top;
+}
+div{
+    display: inline-block;
+}
+.sodat{
+    align-content: center;
+    height: auto;
+    border-radius: 10px ;
+    color: white;
+    font-size: 18px;
+    width: 350px;
+}
